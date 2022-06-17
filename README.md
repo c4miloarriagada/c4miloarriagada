@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Camilo Arriagada</h1>
-<h3 align="center">AN enthusiast of technology and full stack developer from Chile 🌶, i really love acquire new knowledge relationed with my interests, Technology, music and sport are my passion. I just finished my step of bootcamp soy Henry.</h3>
+<h3 align="center">AN enthusiast of technology and full stack developer from Chile 🌶, i really love acquire new knowledge relationed with my interests, technology, music and sport are my passions. I just finished my step of bootcamp soy Henry and i am ready for new challenges in my professional career.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c4miloarriagada&label=Profile%20views&color=0e75b6&style=flat" alt="c4miloarriagada" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **camilo.arriagadav@gmail.com**
 
-- ⚡ Fun fact **Chill guy, i really appreciate deep conversations with a nice music**
+- ⚡ Fun fact **Chill guy, i really appreciate deep conversations with a nice music.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
