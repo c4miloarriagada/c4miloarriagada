@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **camilo.arriagadav@gmail.com**
 
-- ⚡ Fun fact **A chill guy, i appreciate a good conversation accompanied by a nice music.**
+- ⚡ Fun fact **A chill guy, i appreciate a good conversation accompanied by nice music.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
