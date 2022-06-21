@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Camilo Arriagada Vallejos</h1>
-<h3 align="center">AN enthusiast of technology and full stack developer from Chile 🌶, i really love acquire new knowledge relationed with my interests. Technology, music and sport are my favorities topics. I just finished my step of Soy Henry's Bootcamp  <a href='https://www.soyhenry.com/' target="_blank" rel="noreferrer" text='go to soyHenry'><img width="25" height="25" src='https://user-images.githubusercontent.com/86882630/174009890-4daeb2e8-054f-49b5-909f-67789a6b6e03.jpeg'/></a> , and i am ready for new challenges in my professional career.</h3>
+<h3 align="center">AN enthusiast of technology and full stack developer from Chile 🌶, i really love acquire new knowledge relationed about my interests. Technology, music and sport are my favorities topics. I just finished my step of Soy Henry's Bootcamp  <a href='https://www.soyhenry.com/' target="_blank" rel="noreferrer" text='go to soyHenry'><img width="25" height="25" src='https://user-images.githubusercontent.com/86882630/174009890-4daeb2e8-054f-49b5-909f-67789a6b6e03.jpeg'/></a> , and i am ready for new challenges in my professional career.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c4miloarriagada&label=Profile%20views&color=0e75b6&style=flat" alt="c4miloarriagada" /> </p>
 
