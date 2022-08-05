@@ -3,11 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c4miloarriagada&label=Profile%20views&color=0e75b6&style=flat" alt="c4miloarriagada" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=c4miloarriagada" alt="c4miloarriagada" /></a> </p>
 
 - 🔭 I’m currently working on **Alkemy Challenge**
 
-- 🌱 I’m currently learning **TypeScript and AWS**
+- 🌱 I’m currently learning **React && Node**
 
 - 📫 How to reach me **camilo.arriagadav@gmail.com || https://portfoliocamiloarriagada.vercel.app/**
 
