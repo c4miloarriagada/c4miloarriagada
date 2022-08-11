@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c4miloarriagada&label=Profile%20views&color=0e75b6&style=flat" alt="c4miloarriagada" /> </p>
 
 
-- 🔭 I’m currently working on **Alkemy Challenge**
+- 🔭 I’m currently working on **Alkemy.org**
 
 - 🌱 I’m currently learning **React && Node**
 
