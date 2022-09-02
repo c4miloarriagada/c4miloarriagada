@@ -1,14 +1,9 @@
 <h1 align="center">Hi 👋, I'm Camilo Arriagada Vallejos</h1>
-<h3 align="center">An enthusiast of technology and full stack developer from Chile 🌶, i really love acquire new knowledge relationed about my interests. Technology, music and sports are my favorities topics. I just finished my way through Soy Henry's Bootcamp  <a href='https://www.soyhenry.com/' target="_blank" rel="noreferrer" text='go to soyHenry'><img width="25" height="25" src='https://user-images.githubusercontent.com/86882630/174009890-4daeb2e8-054f-49b5-909f-67789a6b6e03.jpeg'/></a> , and i am ready for new challenges in my professional career.</h3>
+<h3 align="center">Currently im working in Entel</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c4miloarriagada&label=Profile%20views&color=0e75b6&style=flat" alt="c4miloarriagada" /> </p>
 
-
-- 🔭 I’m currently working on **Alkemy.org**
-
-- 🌱 I’m currently learning **React && Node**
-
-- 📫 How to reach me **camilo.arriagadav@gmail.com || https://portfoliocamiloarriagada.vercel.app/**
+- 📫 How to reach me **camilo.arriagadav@gmail.com**
 
 - ⚡ About me **A chill guy, i appreciate a good conversation accompanied by nice music.**
 
