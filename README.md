@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c4miloarriagada&label=Profile%20views&color=0e75b6&style=flat" alt="c4miloarriagada" /> </p>
 
-- 📫 How to reach me **camilo.arriagadav@gmail.com || https://portfoliocamiloarriagada.vercel.app/**
+- 📫 How to reach me **camilo.arriagadav@gmail.com 
 
-- ⚡ About me **A chill guy, i appreciate a good conversation accompanied by nice music.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
