@@ -5,8 +5,8 @@
 
 - 📫 How to reach me **camilo.arriagadav@gmail.com 
 
-> Just 4 Fun: 
-<p><a href='https://c4miloarriagada.github.io/Pokedex/' target="_blank" rel="noreferrer"> <img src='https://res.cloudinary.com/dwtkwakbc/image/upload/v1682265450/flat_1000x1000_075_f-removebg-preview_ajvpkk.png' width="40" height="40"/> </a></p>
+> Just <b>4</b> Fun: 
+<p><a href='https://c4miloarriagada.github.io/Pokedex/' target="_blank" rel="noreferrer"> W.I.P 👷‍♂️ <img src='https://res.cloudinary.com/dwtkwakbc/image/upload/v1682265450/flat_1000x1000_075_f-removebg-preview_ajvpkk.png' width="40" height="40"/> </a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
