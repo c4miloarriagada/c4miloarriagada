@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c4miloarriagada&label=Profile%20views&color=0e75b6&style=flat" alt="c4miloarriagada" /> </p>
 
-- 📫 How to reach me **camilo.arriagadav@gmail.com 
+- 📫 How to reach me **camilo.arriagadav@gmail.com** 
 
 > Just <b>4</b> Fun: 
 <p> W.I.P 👷‍♂️ <a href='https://c4miloarriagada.github.io/Pokedex/' target="_blank" rel="noreferrer"><img src='https://res.cloudinary.com/dwtkwakbc/image/upload/v1682265450/flat_1000x1000_075_f-removebg-preview_ajvpkk.png' width="40" height="40"/> </a></p>
