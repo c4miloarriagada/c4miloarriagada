@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Camilo Arriagada Vallejos</h1>
-<h3 align="center"></h3>
+<h3 align="center">Currently working for BTG Pactual </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c4miloarriagada&label=Profile%20views&color=0e75b6&style=flat" alt="c4miloarriagada" /> </p>
 
