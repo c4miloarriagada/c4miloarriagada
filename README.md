@@ -7,7 +7,7 @@
 
 > Just <b>4</b> Fun: 
 <p>W.I.P 👷‍♂️ <a href='https://c4miloarriagada.github.io/Pokedex/' target="_blank" rel="noreferrer"><img src='https://res.cloudinary.com/dwtkwakbc/image/upload/v1682265450/flat_1000x1000_075_f-removebg-preview_ajvpkk.png' width="40" height="40"/> </a></p>
-<p> W.I.P 👷‍♂️ <a href='https://c4miloarriagada.github.io/Rick-Morty/' target="_blank" rel="noreferrer"><img src='https://res.cloudinary.com/dwtkwakbc/image/upload/v1693626209/YHAUBUYW75FZVLG4Z4WL5S6LMY_chfcos.avif' width="40" height="40"/> </a></p>
+<p> W.I.P 👷‍♂️ <a href='https://c4miloarriagada.github.io/Rick-Morty/' target="_blank" rel="noreferrer"><img src='https://res.cloudinary.com/dwtkwakbc/image/upload/v1693625234/Rick--Morty-Cast-and-Character-Guide-feature_snxf3e.avif' width="40" height="40"/> </a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
