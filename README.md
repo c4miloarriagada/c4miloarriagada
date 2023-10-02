@@ -6,7 +6,7 @@
 - 📫 How to reach me **camilo.arriagadav@gmail.com** 
 
 > Just <b>4</b> Fun: 
-<p>W.I.P 👷‍♂️ <a href='https://c4miloarriagada.github.io/Pokedex/' target="_blank" rel="noreferrer"><img src='https://res.cloudinary.com/dwtkwakbc/image/upload/v1682265450/flat_1000x1000_075_f-removebg-preview_ajvpkk.png' width="60" height="60"/> </a></p>
+<p>W.I.P 👷‍♂️ <a href='https://c4miloarriagada.github.io/Pokedex/' target="_blank" rel="noreferrer"><img src='https://res.cloudinary.com/dwtkwakbc/image/upload/v1682743137/Trending_-_Pokedex_Png_Transparent_Png_1690x1207_-_PinPng_v195vu.png' width="60" height="60"/> </a></p>
 <p> W.I.P 👷‍♂️ <a href='https://c4miloarriagada.github.io/Rick-Morty/' target="_blank" rel="noreferrer"><img src='https://res.cloudinary.com/dwtkwakbc/image/upload/v1695165533/Rick-and-Morty_noy1ks.png' width="100" height="60"/> </a></p>
 
 <h3 align="left">Connect with me:</h3>
