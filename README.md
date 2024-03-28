@@ -9,6 +9,10 @@
 <p>W.I.P 👷‍♂️ <a href='https://c4miloarriagada.github.io/Pokedex/' target="_blank" rel="noreferrer"><img src='https://res.cloudinary.com/dwtkwakbc/image/upload/v1682743439/Trending_-_Pokedex_Png__Transparent_Png_1690x1207__-_PinPng-removebg-preview_epmwea.png' width="60" height="60"/> </a></p>
 <p> W.I.P 👷‍♂️ <a href='https://c4miloarriagada.github.io/Rick-Morty/' target="_blank" rel="noreferrer"><img src='https://res.cloudinary.com/dwtkwakbc/image/upload/v1695165533/Rick-and-Morty_noy1ks.png' width="100" height="60"/> </a></p>
 
+<p>Date-Picker</p>
+
+<a href='https://www.npmjs.com/package/solid-calendar?activeTab=readme' target="_blank" rel="noreferrer"><img src='https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg' width="100" height="60"/> </a></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/camilo-arriagada-vallejos" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="camilo-arriagada-vallejos-9754b9229/" height="30" width="40" /></a>
